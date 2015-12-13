@@ -3,7 +3,7 @@
 # and open the template in the editor.
 
 # NOTE: Folders cannot contain spaces because it will split argv!!!
-# First row of the csv file(s) must be the header!
+# The header must exist in the first row of (each of) the csv file(s)
 
 import glob
 import os
